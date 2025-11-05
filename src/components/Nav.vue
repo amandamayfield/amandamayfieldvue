@@ -11,8 +11,5 @@ import { RouterLink } from 'vue-router';
   </div>
 </template>
 
-<style lang="scss" scoped>
-.nav {
-  background-color: pink;
-}
+<style scoped>
 </style>
